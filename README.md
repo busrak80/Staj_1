@@ -1,2 +1,2 @@
-# Staj_1
-Staj_1 icin yapilan calismalar
+# Staj
+Staj icin yapilan calismalar
